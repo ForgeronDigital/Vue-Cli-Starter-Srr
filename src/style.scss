@@ -1,4 +1,4 @@
-$text-color: red;
+@import "./variable.scss";
 
 .redText {
   color: $text-color;
