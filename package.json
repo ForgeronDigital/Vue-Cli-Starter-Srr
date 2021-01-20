@@ -15,7 +15,7 @@
     "@types/vue-markdown": "^2.2.1",
     "aos": "^2.3.4",
     "core-js": "^3.3.2",
-    "gsap": "^2.1.3",
+    "gsap": "^3.6.0",
     "jsdom": "^15.2.1",
     "jsdom-global": "^3.0.2",
     "scrollmagic": "^2.0.7",
